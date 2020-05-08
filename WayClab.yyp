@@ -386,7 +386,7 @@
             "Key": "db9cb6de-12fa-4a7c-8128-259f1336c7a3",
             "Value": {
                 "id": "e9dcf45c-4e09-459c-b955-5ca03773f866",
-                "resourcePath": "scripts\\Shagay_bliat\\Shagay_bliat.yy",
+                "resourcePath": "scripts\\go\\go.yy",
                 "resourceType": "GMScript"
             }
         },
